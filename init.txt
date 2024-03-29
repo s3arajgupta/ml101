@@ -1,0 +1,5 @@
+source /home/s3araj/Documents/mlHosting101/venv/bin/activate
+npm start
+
+source /home/s3araj/Documents/mlHosting101/venv/bin/activate
+python3 -m flask run
