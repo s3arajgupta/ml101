@@ -1,0 +1,19 @@
+https://www.youtube.com/watch?v=HhfbfMRKfEs
+
+React Best Practices
+In this section, we’ll talk about some of the best practices to follow when writing your React code. Let’s dive right in.
+
+Maintain Clear Folder Structure
+Institute a Structured Import Order
+Adhere To Naming Conventions
+Use a Linter
+Employ Snippet Libraries
+Combine CSS and JavaScript
+Limit Component Creation
+Implement Lazy Loading
+Employ Reusable Hooks
+Log and Manage Errors
+Monitor and Test Your Code
+Make Use of Functional Components
+Stay Up to Date With React Version Changes
+Use a Fast, Secure Hosting Provider
