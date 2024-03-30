@@ -1,5 +1,7 @@
 source /home/s3araj/Documents/mlHosting101/venv/bin/activate
+cd /home/s3araj/Documents/mlHosting101/my-app
 npm start
 
 source /home/s3araj/Documents/mlHosting101/venv/bin/activate
+cd /home/s3araj/Documents/mlHosting101/my-api
 python3 -m flask run

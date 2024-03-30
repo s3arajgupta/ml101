@@ -10,7 +10,8 @@ function App() {
 
   const handleSubmit = async () => {
     try {
-      const inputData = [5.1, 3.5, 1.4, 0.2]; // Example input, replace with actual user input
+      // const inputData = [6.7, 2.5, 5.8, 1.8]; // Example input, replace with actual user input
+      const inputData = input.split(',').map(num => parseFloat(num.trim()));
       const response = await fetch('http://localhost:5000/predict', {
         method: 'POST',
         headers: {
